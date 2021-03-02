@@ -1,0 +1,20 @@
+.navbar{
+    background-color:cadetblue;
+    height: 60px;
+}
+.navbar ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 50px;
+  }
+  
+  .navbar ul li {
+    margin-top: 20px;
+    list-style: none;
+    font-size: 25px;
+    text-decoration:white
+  }
+  .navbar ul a {
+    text-decoration:white
+  }
